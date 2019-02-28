@@ -1,0 +1,45 @@
+{
+    "doctors": [
+        {
+            "name": "surendra",
+            "id": 1,
+            "specialization": "eye",
+            "availability": "10am-4pm",
+            "no_of_paitents": 5,
+            "appoimentpatients": []
+        },
+        {
+            "name": "vivek",
+            "id": 2,
+            "specialization": "heart",
+            "availability": "10am-4pm",
+            "no_of_paitents": 4,
+            "appoimentpatients": [
+                [
+                    {
+                        "name": "sugan",
+                        "id": 101,
+                        "age": 22,
+                        "mobilenumber": "7745587845"
+                    }
+                ]
+            ]
+        },
+        {
+            "name": "anazar",
+            "id": 3,
+            "specialization": "brain",
+            "availability": "10am-4pm",
+            "no_of_paitents": 5,
+            "appoimentpatients": []
+        },
+        {
+            "name": "sivasakthi",
+            "id": 4,
+            "specialization": "mbbs",
+            "availability": "10am-4pm",
+            "no_of_paitents": 5,
+            "appoimentpatients": []
+        }
+    ]
+}

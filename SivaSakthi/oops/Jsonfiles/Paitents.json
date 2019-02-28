@@ -1,0 +1,52 @@
+{
+    "patients": [
+        {
+            "name": "sugan",
+            "id": 101,
+            "age": 22,
+            "mobilenumber": "7745587845"
+        },
+        {
+            "name": "sha",
+            "id": 102,
+            "age": 24,
+            "mobilenumber": "7745587846"
+        },
+        {
+            "name": "joker",
+            "id": 103,
+            "age": 26,
+            "mobilenumber": "7785587845"
+        },
+        {
+            "name": "jagan",
+            "id": 104,
+            "age": 29,
+            "mobilenumber": "9945587845"
+        },
+        {
+            "name": "gugan",
+            "id": 105,
+            "age": 20,
+            "mobilenumber": "8545587845"
+        },
+        {
+            "name": "saran",
+            "id": 106,
+            "age": 22,
+            "mobilenumber": "7745588845"
+        },
+        {
+            "name": "suganan",
+            "id": 107,
+            "age": 22,
+            "mobilenumber": "7745587845"
+        },
+        {
+            "name": "saga",
+            "id": "108",
+            "symbol": "24",
+            "phnumber": "7785548996"
+        }
+    ]
+}
